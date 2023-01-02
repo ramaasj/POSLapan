@@ -14,9 +14,9 @@ Dibuat Oleh Kelompok 8
 **********************
 
 20081010129 - Lintang Pramudya Anpurnan |
- 20081010150 - Syammari Rama Janitra |
- 20081010189 - Hafid Alfa Anamsyah |
- 20081010212 - Chandra Ika Nugroho |
+20081010150 - Syammari Rama Janitra |
+20081010189 - Hafid Alfa Anamsyah |
+20081010212 - Chandra Ika Nugroho |
 
 
 ************************
