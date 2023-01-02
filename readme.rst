@@ -1,70 +1,24 @@
-###################
-What is CodeIgniter
-###################
+################
+Apa itu POSLapan
+################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+POSLapan adalah program Point of Sales yang dikembangkan oleh kelompok 8 kelas Framework UPN "Veteran" Jatim.
+Tujuan kami membuat program ini adalah untuk menyediakan digitalisasi bagi swalayan atau toko kecil yang masih
+menggunakan catatan konvensional atau manual untuk mencatat semua transaksi yang telah dilakukan. Karena catatan
+konvensional masih sangat membutuhkan ingatan yang sangat baik dan membutuhkan ketelitian yang tinggi, hal itu akan
+membuat pemilik toko kesulitan apabila ia sudah lupa atau salah menghitung saat melakukan transaksi. Dengan adanya
+POSLapan, kami harap swalayan dan toko-toko kecil dapat meningkatkan efisiensi dari kinerja toko tersebut.
 
-*******************
-Release Information
-*******************
+**********************
+Dibuat Oleh Kelompok 8
+**********************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+20081010129 - Lintang Pramudya Anpurnan
+20081010150 - Syammari Rama Janitra
+20081010189 - Hafid Alfa Anamsyah
+20081010212 - Chandra Ika Nugroho
 
-**************************
-Changelog and New Features
-**************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+************************
+Framework 2022 UPN Jatim
+************************
